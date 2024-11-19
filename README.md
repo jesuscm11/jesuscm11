@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Me considero una persona abierta, amable, con ganas de aprender y responsable. Me gusta trabajar en grupo y soy abierto cara al público.
+
 ![](https://komarev.com/ghpvc/?username=jesuscm11&abbreviated=true)
