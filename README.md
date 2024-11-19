@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Me considero una persona abierta, amable, con ganas de aprender y responsable. Me gusta trabajar en grupo y soy abierto cara al público.
+## Skills
+* HTML 5
+* CSS 3
+* JS
 
 ![](https://komarev.com/ghpvc/?username=jesuscm11&abbreviated=true)
