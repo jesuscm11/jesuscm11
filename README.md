@@ -1,9 +1,9 @@
 <h1 align="center">Bienvenido, soy Jesús Caballero Martín</h1>
-<h3 align="center">CFGM TÉCNICO EN SISTEMAS MICROINFORMÁTICOS Y REDES</h3>
+<h3 align="center"> ESTUDIANTE DEL CFGM TÉCNICO EN SISTEMAS MICROINFORMÁTICOS Y REDES</h3>
 
 <p align="left"> <img src=" https://komarev.com/ghpvc/?username=jesuscm11&label=Profile%20views&color=0e75b6&style=flat" alt="jesuscm11" /> </p>
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Contáctame</h3>
 <p align="left">
 <a href="https://instagram.com/jesusc. m11" target="en blanco"><img align="centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesusc.m11" height="30" width="40" /></a>
 </p>
