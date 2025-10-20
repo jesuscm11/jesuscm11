@@ -1,5 +1,5 @@
 <h1 align="center">Bienvenido, soy Jesús Caballero Martín</h1>
-<h3 align="center">ESTUDIANTE DEL CFGM TÉCNICO EN SISTEMAS MICROINFORMÁTICOS Y REDES</h3>
+<h3 align="center">ESTUDIANTE DEL CFGS Desarrollo de Aplicaciones Web</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
