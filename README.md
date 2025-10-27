@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenido, soy Jesús Caballero Martín</h1>
 <h3 align="center">ESTUDIANTE DEL CFGS Desarrollo de Aplicaciones Web</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacta conmigo:</h3>
 <p align="left">
 <a href="https://instagram.com/jesusc.m11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jesusc.m11" height="30" width="40" /></a>
 </p>
